@@ -1,13 +1,11 @@
 
 
 body {
-  Color: black;
+  color: black;
   background-color: #F5F5DD;
   max-width 700px;
-  margin: 30;
-}
- 
-body{ font-family: "Stardos Stencil", system-ui;
+  margin: 30px;
+  font-family: "Stardos Stencil", system-ui;
   font-weight: 400;
   font-style: normal;
 }
@@ -17,9 +15,7 @@ h1, h2, h3, h4, h5, h6 {
   color: White;
   background-color: #EAE3C9;
   text-align: center;
-}
-h1, h2, h3, h4, h5, h6 {
-font-family: "Sigmar One", sans-serif;
+  font-family: "Sigmar One", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
