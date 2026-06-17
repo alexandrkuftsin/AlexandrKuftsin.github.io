@@ -1,9 +1,7 @@
-
-
 body {
   color: black;
   background-color: #F5F5DD;
-  max-width 700px;
+  max-width: 700px;
   margin: 30px;
   font-family: "Stardos Stencil", system-ui;
   font-weight: 400;
@@ -11,21 +9,31 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-
   color: black;
   background-color: #EAE3C9;
   text-align: center;
   font-family: "Sigmar One", sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 130px;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 60px;
+}
+
+p {
+  font-size: 50px;
 }
 
 a {
-     color: blue;
+  color: blue;
 }
 
 a:hover {
-    background-color: blue;
-    color: white;
+  background-color: blue;
+  color: white;
 }
